@@ -12,7 +12,7 @@ export default function App() {
                 <div>
                     <Section title="наш топовый магаз" />
                     <Section title="продукция по предзаказу" />
-                    <Section title="готовая продукция" />
+
                     <PaintingList items={data} />
                 </div>
 
